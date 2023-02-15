@@ -9,5 +9,6 @@ public class NewTest {
     @Test
     void newTest() {
         open("https://github.com");
+        System.out.println("Открылся github");
     }
 }
